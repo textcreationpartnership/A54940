@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for printing a new atlas Moses pitt of London, bookseller, being encouraged by His Most Sacred Majesty, His Royal Highness the Duke of York, his Highness Prince Rupert, both the universities, the Royal Society, and divers others, the nobility, gentry, and learned men of this nation, to undertake the printing of an accurate description of the world; and resolving to proceed with all convenient diligence, for the more effectual carrying on thereof, maketh these following offers.</title>
+            <author>Pitt, Moses, fl. 1654-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54940</idno>
+            <idno type="STC">Wing P2308</idno>
+            <idno type="STC">ESTC R218763</idno>
+            <idno type="EEBO-CITATION">99830334</idno>
+            <idno type="PROQUEST">99830334</idno>
+            <idno type="VID">34785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34785)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2035:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for printing a new atlas Moses pitt of London, bookseller, being encouraged by His Most Sacred Majesty, His Royal Highness the Duke of York, his Highness Prince Rupert, both the universities, the Royal Society, and divers others, the nobility, gentry, and learned men of this nation, to undertake the printing of an accurate description of the world; and resolving to proceed with all convenient diligence, for the more effectual carrying on thereof, maketh these following offers.</title>
+                  <author>Pitt, Moses, fl. 1654-1696.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Printing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:34785:1" rendition="simple:additions"/>
+            <head>PROPOSALS FOR PRINTING A New Atlas.</head>
+            <head type="sub">
+               <hi>MOSES PITT</hi> of <hi>London,</hi> Bookſeller, being Encouraged by His Moſt Sacred <hi>MAJESTY,</hi> His Royal Highneſs the Duke of <hi>YORK,</hi> his Highneſs Prince <hi>RUPERT,</hi> Both the <hi>Univerſities,</hi> the <hi>Royal Society,</hi> and divers others, the <hi>Nobility, Gentry,</hi> and Learned Men of this Nation, to undertake the Printing of an Accurate Deſcription of the World; and reſolving to proceed with all convenient diligence, for the more effectual carrying on thereof, maketh theſe following Offers.</head>
+            <p n="1">I. HE the ſaid <hi>Moſes Pitt</hi> having the advantage of making uſe of di<g ref="char:EOLhyphen"/>vers Plates already Graven, but more eſpecially of thoſe of <hi>Janſſons</hi> Atlas, doth deſign by renewing and regulating divers of them, and by adding many new Plates, together with new Deſcriptions throughout, to Print a compleat Collection or Maps, Tables, or Delineations of the Heavens, Earth, and Seas, with their ſeveral parts, in ſuch manner, that all the Maps ſhall have the ſame ſituation of North and South; and all things ſhall be as exactly and particularly deſcrib'd, as can be done by the help of all the Maps and Delineations already extant in Print, and of as many others as can be procured, of ſeveral things and places formerly but imperfectly deſcrib'd; as alſo of divers late and new diſcoveries of parts heretofore unknown, or not taken notice of as yet in any Maps.</p>
+            <p n="2">II. To each of theſe Maps or Delineations he intends to add an Alphabet of all the places contain'd therein, with directions how to find them; as likewiſe an Explanation or Hiſtory proper thereunto, in ſheets by themſelves, to be done by a Geographer approv'd by the perſons hereafter mention'd to be the Directors of the whole Work.</p>
+            <pb facs="tcp:34785:2"/>
+            <p n="3">III. He will Print the whole Work in as good Paper and Character as any of thoſe already Printed by <hi>Blaeu, Janſſon, Sanſon,</hi> or any other.</p>
+            <p n="4">IV. Whereas the Atlases of <hi>Blaeu</hi> and <hi>Janſſon</hi> are uſually comprehended in Eleven Volumes in Folio, in all the Languages hitherto Printed; it is intended that this Atlas in the <hi>Engliſh Tongue,</hi> ſhall be printed in <hi>Eleven</hi> Volumes like<g ref="char:EOLhyphen"/>wiſe, each Volume to be ſold to the Subſcriber at the rate of Forty ſhillings in Quires. But if thoſe Gentlemen that are concern'd in the management of it, ſhall think fit to contrive it in fewer Volumes, it ſhall ſtill be at the rate of Forty ſhillings a Volume; or if ſo many uſeful Maps can be pro<g ref="char:EOLhyphen"/>cured, that they ſhall think fit to make it <hi>Twelve</hi> Volumes, it ſhall ſtill be at no more then Forty ſhillings a Volume; and each Volume both in num<g ref="char:EOLhyphen"/>ber of Maps and Deſcriptions, ſhall not conſiſt of leſs than fifty-five ſheet Maps and fifty-five printed ſheets of Tables and Deſcriptions, one with the other, according to the judgment of the Directors.</p>
+            <p n="5">V. He doth alſo promiſe to deliver to the Subſcribers the ſeveral Volumes as they ſhall be compleated and finiſhed, they paying their Forty ſhillings at the time of their ſubſcribing, which is to be before the four and twentieth day of <hi>July,</hi> 1678; Forty ſhillings more at the delivery of the firſt Volume, Forty ſhillings at the delivery of the ſecond Volume, and the ſame ſum to be paid upon delivery of all the other Volumes ſucceſſively, only the two laſt to be deliver'd at twenty ſhillings a Volume; for which ſeveral ſums aforeſaid, the ſaid <hi>Moſes Pitt</hi> will give his Receipt under his own Hand and Seal, with two Witneſſes thereunto, with an engagement to deliver to the Subſcribers or their Aſſigns, at his Shop in St. <hi>Pauls Church-yard,</hi> they ma<g ref="char:EOLhyphen"/>king good their Subſcriptions, the ſeveral Volumes as they ſhall be printed, according to the plain meaning of theſe Propoſals.</p>
+            <p n="6">VI. No Volume ſhall be ſold ſingly to any Gentleman whatever, except the Subſcribers, (by the Bookſeller <hi>Moſes Pitt</hi>) under Five and fifty ſhillings in Quires; neither ſhall any Volume be deliver'd to any perſon whatſoever, before all the Subſcribers have theirs, provided they ſend for them within one Month after notice given in the <hi>Gazette</hi> of the finiſhing of every Volume.</p>
+            <p n="7">VII. The firſt Volume deſigned to begin withall, is that which contains the Maps of the <hi>Low Countries,</hi> and of the Weſt part of <hi>Germany,</hi> which are the chief Seat of the preſent War, before which is to be added an Intro<g ref="char:EOLhyphen"/>duction to Geography, ſuch as ſhall be adviſed by the perſons after-named, together with a Map of the Terreſtrial Globe, and Maps of the greater Diviſions or Parts of the Earth. This Volume is intended to be compleated before the four and twentieth of the next enſuing <hi>March.</hi> The next Volume deſign'd, is the reſt of <hi>Germany,</hi> intended to be compleated within four months after the ſaid four and twentieth day of <hi>March.</hi> The ſaid time proportionably allow'd for the compleating of all the reſt; Unleſs it be judged neceſſary by the Directors, that a longer time be allow'd for ſome of the Volumes.</p>
+            <p n="8">VIII. Whoſoever ſhall ſubſcribe for ten compleat Books, ſhall for the ſame price have eleven compleat Books in Quires deliver'd to him.</p>
+            <p n="9">IX. Becauſe ſeveral Gentlemen do complain that they have been deceiv'd by ſeveral Propoſers in this nature, therefore for the punctual performance of what is here undertaken, the Bookſeller <hi>Moſes Pitt,</hi> has already given ſufficient Security to Sir <hi>Joſeph Williamſon,</hi> one of His Majeſties Principal Secretaries of State, and Preſident of the <hi>Royal Society,</hi> for performance of his Engage<g ref="char:EOLhyphen"/>ment and Propoſals.</p>
+            <p n="10">X. It is requeſted, that every Subſcriber to this great Undertaking, would be pleaſed to ſet down the County and place of his Habitation, together with his name and directions how to ſend to him, to the end that notice may be given him according as the Work goes forward.</p>
+            <pb facs="tcp:34785:2"/>
+            <p>WHereas his moſt Sacred Majeſty has been Graci<g ref="char:EOLhyphen"/>ouſly pleaſed, for the promoting of this Deſign; to permit that his Collections of Maps and De<g ref="char:EOLhyphen"/>ſcriptions of Countries may be perus'd, that ſuch of them as have not yet been publiſhed, and are thought proper for this work, may be taken into it; and whereas his Royal High<g ref="char:EOLhyphen"/>neſs, and his Highneſs Prince <hi>Rupert,</hi> have been alſo pleaſed to promiſe the ſame favour; and the like has been done by the Right Honourable Sir <hi>Joſeph Williamſon,</hi> one of his Majeſties prin<g ref="char:EOLhyphen"/>cipal Secretaries of State, and Preſident of the Royal Society, and alſo by the moſt learned Dr. <hi>Iſaac Voſſius,</hi> who is pleaſed to communicate his moſt copious and exquiſite Collections, and it is hoped that the ſame will be done by ſeveral other perſons of Honour and Quality: therefore it is humbly deſir'd that all Gen<g ref="char:EOLhyphen"/>tlemen, who have any particular Maps or Relations of new Diſ<g ref="char:EOLhyphen"/>coveries, or any more perfect deſcriptions of places already known, would be pleaſed to ſend the ſame to the ſaid <hi>Moſes Pitt,</hi> who will give ſufficient ſecurity for the ſafe return of the ſame unprejudic'd, and if they ſhall be thought proper (by the Perſons hereafter men<g ref="char:EOLhyphen"/>tioned) to be inſerted, he will take care that it ſhall be done, and that the obligation ſhall be thankfully acknowledged in ſuch man<g ref="char:EOLhyphen"/>ner as ſhall be to their own beſt ſatisfaction.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <date>
+                              <hi>May</hi> 3. 1678.</date>
+                        </opener>
+                        <p>WE whoſe names are here ſubſcribed, not doubt<g ref="char:EOLhyphen"/>ing but that this Work will be of great Uſe, and for the Honour of the Nation, and being de<g ref="char:EOLhyphen"/>ſired by <hi>Moſes Pitt,</hi> to give him our Aſſiſtance, that he may be the better enabled to perform it, do promiſe that we will from time to time at ſpare hours, both give our Advice for the car<g ref="char:EOLhyphen"/>rying on of the Work; and further, ſince he offers to refer himſelf to us in divers of his Propoſals, we will obſerve how he makes them good, and give an Account thereof to Sir <hi>Joſeph Williamſon,</hi> Preſident of the <hi>Royal Society,</hi> or to the Preſident of the ſaid Society for the time being,</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Chr. Wren.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iſaac Voſſius.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Pell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>W. Lloyd.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Gale.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rob. Hook.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:34785:3"/>
+            <p>UPon p<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſing theſe preceding Propoſals, we whoſe Names are underwritten, well approving and highly commending this Deſign of the ſaid <hi>Moſes Pitt,</hi> do for his en<g ref="char:EOLhyphen"/>couragement not only ſubſcribe our ſelves for one or more Copies of the ſaid Book, but do alſo recommend ſo Noble and Uſeful a Deſign to the reſt of the Nobility and Gentry throughout his Majeſty's Dominions.</p>
+            <list>
+               <head>His <hi>Majeſty</hi> is pleaſed to Command, that one Copy of this Work be ſubſcribed for, as for his <hi>Majeſty,</hi> on His behalf, <hi>J. Williamſon.</hi>
+               </head>
+               <item>
+                  <list>
+                     <item>His Royal Highneſs <hi>James</hi> Duke of <hi>York.</hi>
+                     </item>
+                     <item>His Highneſs Prince <hi>Rupert.</hi>
+                        <list>
+                           <item>
+                              <hi>AILESB<g ref="char:V">Ʋ</g>RY.</hi>
+                           </item>
+                           <item>
+                              <hi>R. AR<g ref="char:V">Ʋ</g>NDEL.</hi>
+                           </item>
+                           <item>
+                              <hi>ARRAN.</hi>
+                           </item>
+                           <item>
+                              <hi>John Arundell.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Alleſtree.</hi>
+                           </item>
+                           <item>
+                              <hi>H. Aldridge.</hi>
+                           </item>
+                           <item>
+                              <hi>John Alport.</hi>
+                           </item>
+                           <item>
+                              <hi>E. Aſhmole.</hi>
+                           </item>
+                           <item>
+                              <hi>Ph. Ayres.</hi>
+                           </item>
+                           <item>
+                              <hi>BRIDGWATER.</hi>
+                           </item>
+                           <item>
+                              <hi>BATHE.</hi>
+                           </item>
+                           <item>
+                              <hi>B<g ref="char:V">Ʋ</g>RLINGTON.</hi>
+                           </item>
+                           <item>
+                              <hi>BERKELEY.</hi>
+                           </item>
+                           <item>
+                              <hi>BELASYSE.</hi>
+                           </item>
+                           <item>
+                              <hi>Rob. Boyle.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Backwell.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Baker.</hi>
+                           </item>
+                           <item>
+                              <hi>Ben. Baron.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Barrow.</hi>
+                           </item>
+                           <item>
+                              <hi>Ra. Bathurſt.</hi>
+                           </item>
+                           <item>
+                              <hi>Jo. Bemde.</hi>
+                           </item>
+                           <item>
+                              <hi>Franc. Bernard.</hi>
+                           </item>
+                           <item>
+                              <hi>Andrew Birch.</hi>
+                           </item>
+                           <item>
+                              <hi>Fra. Blake.</hi>
+                           </item>
+                           <item>
+                              <hi>William Blathwayt.</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Blount.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Boteler.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Boothby.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Brady.</hi>
+                           </item>
+                           <item>
+                              <hi>W. Bridgeman.</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Brown.</hi>
+                           </item>
+                           <item>
+                              <hi>Gilb. Burnet.</hi>
+                           </item>
+                           <item>
+                              <hi>Edw. Byde.</hi>
+                           </item>
+                           <item>
+                              <hi>W. CANT.</hi>
+                           </item>
+                           <item>
+                              <hi>CARNARVEN.</hi>
+                           </item>
+                           <item>
+                              <hi>CLARENDON.</hi>
+                           </item>
+                           <item>
+                              <hi>CARDIGAN.</hi>
+                           </item>
+                           <item>
+                              <hi>JO. CHESTER.</hi>
+                           </item>
+                           <item>
+                              <hi>RAL. CHICHESTER.</hi>
+                           </item>
+                           <item>
+                              <hi>GEO. COVENTRY.</hi>
+                           </item>
+                           <item>
+                              <hi>CORNWALLIS.</hi>
+                           </item>
+                           <item>
+                              <hi>G. CARTERET.</hi>
+                           </item>
+                           <item>
+                              <hi>Hen. Capel.</hi>
+                           </item>
+                           <item>
+                              <hi>Hugh Cholmley.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Clayton.</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Cotterel.</hi>
+                           </item>
+                           <item>
+                              <hi>J. Chaſe.</hi>
+                           </item>
+                           <item>
+                              <hi>Hen. Clarke.</hi>
+                           </item>
+                           <item>
+                              <hi>John Collins.</hi>
+                           </item>
+                           <item>
+                              <hi>Edw. Conyers.</hi>
+                           </item>
+                           <item>
+                              <hi>John Corrance.</hi>
+                           </item>
+                           <item>
+                              <hi>Mar. Cottel.</hi>
+                           </item>
+                           <item>
+                              <hi>Edw. Cranfeild.</hi>
+                           </item>
+                           <item>
+                              <hi>DORSET.</hi>
+                           </item>
+                           <item>
+                              <hi>DEVONSHIRE.</hi>
+                           </item>
+                           <item>
+                              <hi>N. D<g ref="char:V">Ʋ</g>RESME.</hi>
+                           </item>
+                           <item>
+                              <hi>DELAMER.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Dacres.</hi>
+                           </item>
+                           <item>
+                              <hi>Wroth Delamayne.</hi>
+                           </item>
+                           <item>
+                              <hi>Ra. Delaval.</hi>
+                           </item>
+                           <item>
+                              <hi>Th. Diodati.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Dodwell.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Doughty.</hi>
+                           </item>
+                           <item>
+                              <hi>Jon. Dryden.</hi>
+                           </item>
+                           <item>
+                              <hi>RICH. EBOR.</hi>
+                           </item>
+                           <item>
+                              <hi>ESSEX.</hi>
+                           </item>
+                           <item>
+                              <hi>PETER ELY.</hi>
+                           </item>
+                           <item>
+                              <hi>THO. EXON.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Everard.</hi>
+                           </item>
+                           <item>
+                              <hi>Laur. Euſden.</hi>
+                           </item>
+                           <item>
+                              <hi>FINCH. C.</hi>
+                           </item>
+                           <item>
+                              <hi>FA<g ref="char:V">Ʋ</g>CONBERG.</hi>
+                           </item>
+                           <item>
+                              <hi>FRESCHEVILLE.</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Feltham.</hi>
+                           </item>
+                           <item>
+                              <hi>John Fitz-Williams.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Franklin.</hi>
+                           </item>
+                           <item>
+                              <hi>CHA. GERARD.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Genew.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Gill.</hi>
+                           </item>
+                           <item>
+                              <hi>Jo. Goad.</hi>
+                           </item>
+                           <item>
+                              <hi>W. Godolphin.</hi>
+                           </item>
+                           <item>
+                              <hi>H<g ref="char:V">Ʋ</g>NTINGDON.</hi>
+                           </item>
+                           <item>
+                              <hi>H<g ref="char:V">Ʋ</g>NSDON.</hi>
+                           </item>
+                           <item>
+                              <hi>HOLLES.</hi>
+                           </item>
+                           <item>
+                              <hi>C. Hatton.</hi>
+                           </item>
+                           <item>
+                              <hi>Theed. Haak.</hi>
+                           </item>
+                           <item>
+                              <hi>Tim. Harlon.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Haynes.</hi>
+                           </item>
+                           <item>
+                              <hi>John Herbert.</hi>
+                           </item>
+                           <item>
+                              <hi>A. Hill.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Holbech.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Holder.</hi>
+                           </item>
+                           <item>
+                              <hi>Anth. Hornech.</hi>
+                           </item>
+                           <item>
+                              <hi>Harry Hyrne.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Jeames.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Jane.</hi>
+                           </item>
+                           <item>
+                              <hi>KENT.</hi>
+                           </item>
+                           <item>
+                              <hi>H. LONDON.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Lake.</hi>
+                           </item>
+                           <item>
+                              <hi>James Langham.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Lucas.</hi>
+                           </item>
+                           <item>
+                              <hi>K. Lucy.</hi>
+                           </item>
+                           <item>
+                              <hi>MANCHESTER.</hi>
+                           </item>
+                           <item>
+                              <hi>M<g ref="char:V">Ʋ</g>LGRAVE.</hi>
+                           </item>
+                           <item>
+                              <hi>MAYNARD.</hi>
+                           </item>
+                           <item>
+                              <hi>R. Maiteland.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Marſhall.</hi>
+                           </item>
+                           <item>
+                              <hi>Jonas Moore.</hi>
+                           </item>
+                           <item>
+                              <hi>NORTHAMPTON.</hi>
+                           </item>
+                           <item>
+                              <hi>NEWPORT.</hi>
+                           </item>
+                           <item>
+                              <hi>And. Newport.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Newman.</hi>
+                           </item>
+                           <item>
+                              <hi>Iſaac Newton.</hi>
+                           </item>
+                           <item>
+                              <hi>OXFORD.</hi>
+                           </item>
+                           <item>
+                              <hi>JO. OXON.</hi>
+                           </item>
+                           <item>
+                              <hi>PETERBOROW.</hi>
+                           </item>
+                           <item>
+                              <hi>PERTH.</hi>
+                           </item>
+                           <item>
+                              <hi>JOS. PETERB.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Page.</hi>
+                           </item>
+                           <item>
+                              <hi>S. Pepys.</hi>
+                           </item>
+                           <item>
+                              <hi>Walter Pope.</hi>
+                           </item>
+                           <item>
+                              <hi>Humphrey Prideaux.</hi>
+                           </item>
+                           <item>
+                              <hi>RIVERS.</hi>
+                           </item>
+                           <item>
+                              <hi>JOHN ROFFEN.</hi>
+                           </item>
+                           <item>
+                              <hi>S<g ref="char:V">Ʋ</g>NDERLAND.</hi>
+                           </item>
+                           <item>
+                              <hi>SHAFTSB<g ref="char:V">Ʋ</g>RY.</hi>
+                           </item>
+                           <item>
+                              <hi>SETH SAR<g ref="char:V">Ʋ</g>M.</hi>
+                           </item>
+                           <item>
+                              <hi>PAOLO SAROTTI.</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Scarburgh.</hi>
+                           </item>
+                           <item>
+                              <hi>Geo. Seignior.</hi>
+                           </item>
+                           <item>
+                              <hi>Edw. Sherburn.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Smith.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Spratt.</hi>
+                           </item>
+                           <item>
+                              <hi>Henry Stafford.</hi>
+                           </item>
+                           <item>
+                              <hi>Edward Stillingfleet.</hi>
+                           </item>
+                           <item>
+                              <hi>Jon. Trelany.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Trumbull.</hi>
+                           </item>
+                           <item>
+                              <hi>Charles Trumbull.</hi>
+                           </item>
+                           <item>
+                              <hi>Francis Turner.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Turner.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Turner.</hi>
+                           </item>
+                           <item>
+                              <hi>Stephen <g ref="char:V">Ʋ</g>pman.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Vudal.</hi>
+                           </item>
+                           <item>
+                              <hi>WINCHESTER.</hi>
+                           </item>
+                           <item>
+                              <hi>WORCESTER.</hi>
+                           </item>
+                           <item>
+                              <hi>WINDESOR.</hi>
+                           </item>
+                           <item>
+                              <hi>WARD.</hi>
+                           </item>
+                           <item>
+                              <hi>CH. WOTTON.</hi>
+                           </item>
+                           <item>
+                              <hi>J. WILLIAMSON.</hi>
+                           </item>
+                           <item>
+                              <hi>Obad. Walker.</hi>
+                           </item>
+                           <item>
+                              <hi>John Wallis.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Wallis.</hi>
+                           </item>
+                           <item>
+                              <hi>Fr. Watſon.</hi>
+                           </item>
+                           <item>
+                              <hi>Peter Wyche.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>WE whoſe Names are underwritten, do ſubſcribe for <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Book compleat, according to the true intent and meaning of theſe Propoſals.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
